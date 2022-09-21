@@ -1,7 +1,7 @@
-## Treasure Island
+# Treasure Island
 An adventure awaits you!
 
-# Instructions
+## Instructions
 Explore!
 🧞‍♂️ 🐊 🧙‍♂️ 🧟 🧚‍♂️ 🧝‍♂️ 🥷 🤖 👽 🙀 
 
